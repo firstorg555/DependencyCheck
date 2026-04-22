@@ -1,0 +1,7 @@
+{
+    "name": "test/dependency-trap",
+    "description": "Lockfile yok",
+    "require": {
+        "monolog/monolog": "2.0.*"
+    }
+}
